@@ -1,0 +1,2 @@
+Prefix plugins/BAM2BED/example/
+Plugin BAM2BED inputfile example.bam outputfile output.bed
